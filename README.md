@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonjac&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonjac" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacksonjac](https://github.com/jacksonjac)
+- 👨‍💻 im looking a job Mean stack
 
 - 💬 Ask me about **Web developments**
 
