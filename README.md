@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img alt="Coder GIF" align="right" height=250 width=350 src="https://w.forfun.com/fetch/ee/ee862fa037452c471eee772d09dbedf9.jpeg" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonjac&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonjac" /> </p>
 
 - 🌱 I’m currently learning **Angular**
