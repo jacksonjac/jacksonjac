@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonjac&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonjac" /> </p>
 
 
-- 👨‍💻 im  Mean stack developer
+- 👨‍💻 im  Full stack developer
 
 - 💬 Ask me about **Web developments**
 
